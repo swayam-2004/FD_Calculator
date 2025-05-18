@@ -25,9 +25,11 @@ Demo
   - Tenure (in years)
 - The maturity amount is calculated using the compound interest formula:
 ------->  p+(p*r*t)/100
+  
         - `p` is principal  
         - `r` is interest rate per annum  
         - `t` is time in years
+
 
 - Displays:
 - Total maturity amount
